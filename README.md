@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:786ab4,50:feac5e,100:e53935&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:fbc2eb&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<h1 align="center">Hi, I'm Stuti Pandey! 👋</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200"/>
+</div>
+
+<h1 align="center">Hi, I'm Stuti Pandey! 🐼💻</h1>
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
@@ -72,7 +76,7 @@
 | [**cc_DuplicateFileFinder**](https://github.com/stutipandey20/cc_DuplicateFileFinder) | From John Crickett's Coding Challenges. A Python tool to detect duplicate files efficiently. | `Python, File I/O` |
 | [**cc_wc_tool**](https://github.com/stutipandey20/cc_wc_tool_project) | From John Crickett's Coding Challenges. A Python tool to build your own version of the Unix command line tool wc! | `Python, Bash, Linux CLI, File I/O` |
 | [**Scholar-Success-Fund**](https://github.com/stutipandey20/Scholar-Success-Fund) | SQL database system for scholarship fund distribution. | `T-SQL, SQL Server` |
-| [**Tableau-Dashboard-Project**](https://github.com/stutipandey20/Tableau-Dashboard-Project) | A project that **visualizes key metrics and trends using Tableau dashboards. | `Tableau, MS Excel` |
+| [**Tableau-Dashboard-Project**](https://github.com/stutipandey20/Tableau-Dashboard-Project) | A project that visualizes key metrics and trends using Tableau dashboards. | `Tableau, MS Excel` |
 
 </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
