@@ -1,4 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:786ab4,50:feac5e,100:e53935&height=150&section=header" />
+</div>
+
 <h1 align="center">Hi, I'm Stuti Pandey! 👋</h1>
+
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
 ### 🚀 About Me
 - 🎓 **Graduate Student** at **Arizona State University**, majoring in **Information Technology**.
@@ -6,13 +12,13 @@
 - 🌱 Currently exploring **Big Data, Cloud Computing (AWS/Azure), and DevOps**.
 - Attended **CodePath** Technical Interview Prep **TIP-103** (Summer, 2024)
 - Worked at **Walmart**(2021 - 2023) | UG at **Banasthali Vidyapith** (2017 - 2021)
-
+  
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stutipandey-us/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/stutipandey20)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stutip74@gmail.com)
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
 ### 💡 Tech Stack & Tools
 - **Languages:** <br>
@@ -50,8 +56,14 @@
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
   ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
 
+- **Other Interests:** <br>
+  ![Open Source](https://img.shields.io/badge/Open%20Source-181717?style=flat&logo=github&logoColor=white)
+  ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat&logo=openai&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+  ![Generative AI](https://img.shields.io/badge/Generative%20AI-FFD54F?style=flat&logo=huggingface&logoColor=black)
+  ![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-0055A4?style=flat&logo=meta&logoColor=white)
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
 ### 🔥 Featured Projects
 | Project | Description | What I used |
@@ -62,7 +74,7 @@
 | [**Scholar-Success-Fund**](https://github.com/stutipandey20/Scholar-Success-Fund) | SQL database system for scholarship fund distribution. | `T-SQL, SQL Server` |
 | [**Tableau-Dashboard-Project**](https://github.com/stutipandey20/Tableau-Dashboard-Project) | A project that **visualizes key metrics and trends using Tableau dashboards. | `Tableau, MS Excel` |
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
 ### 📈 GitHub Stats
 ![Stuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=stutipandey20&show_icons=true&theme=radical&count_private=true)
@@ -78,5 +90,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stutipandey20&layout=compact&theme=radical)
 
----
+</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
